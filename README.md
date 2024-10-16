@@ -116,3 +116,6 @@ The global podcast industry continues to grow rapidly, with significant revenue 
 [^7]: https://en-us.sennheiser.com/newsroom/sennheiser-group-looks-back-on-a-successful-2023-fiscal-year
 [^8]: https://podcastindustry.org/sources/financial-statements/LOGI-10-Q_2019-01-24.pdf
 [^9]: https://podcastindustry.org/sources/press-releases/patreon-press-release-aug-1-2024.pdf
+
+> [!NOTE]
+> This page is hosted by [Transistor.fm](https://transistor.fm). Ready to [start a podcast](https://transistor.fm/how-to-start-a-podcast/)? Create as [many podcasts as you'd like](https://transistor.fm/features/host-multiple-podcasts-on-the-same-account/) on Transistor, and we'll [distribute your shows](https://transistor.fm/features/distribution/) to Apple, Spotify, YouTube, and more.
