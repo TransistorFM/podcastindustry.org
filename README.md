@@ -1,12 +1,14 @@
 # Global Podcast Industry Annual Revenue Estimate
 
+*Last update*: Oct 16, 2024
+
 ## Introduction
 
 I was curious about the size of the podcast industry. As a participant, I wanted to understand two key numbers often used to measure the market. 
 
 First, a U.S. figure from the IAB showed that annual podcast advertising revenue in 2023 was nearly $2 billion. Second, Grandview Research estimated the entire podcast market, including all segments, to be $20 billion a year. This number seemed off to me.
 
-So, I decided to explore these numbers myself. Using Claude AI as my research assistant, I collected annual returns, financial statements, and other public data. 
+So, I decided to explore these numbers myself. Using Claude AI as my research assistant, I've collected  annual returns, financial statements, and other public information. Using this data, I've had Claude estimate the size of each category. 
 
 My goal here is to publish these findings here, and have this page function as a sort of collaborative wiki that anyone can contribute to.
 
@@ -15,8 +17,8 @@ My goal here is to publish these findings here, and have this page function as a
 My hope is that the contributions and discussion about these numbers here would lead to a more accurate estimate of the podcast industry's size.
 
 Cheers,
-Justin Jackson
-Co-founder of [Transistor.fm](https://transistor.fm)
+ Justin Jackson
+ Co-founder of [Transistor.fm](https://transistor.fm)
 
 ## Overview
 
