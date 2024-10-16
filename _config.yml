@@ -1,8 +1,7 @@
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: mmistakes/jekyll-theme-basically-basic@1.4.5
 plugins:
 - jekyll-remote-theme
 - jekyll-seo-tag
 title: Podcast Industry Statistics 2024 – Global Market Size and Growth
 description: Comprehensive podcast industry statistics for 2024. Collaborative wiki covers global market size, growth trends, platform market share, and advertising revenue estimates.
-og_image: social-image.jpg
-image: social-image.jpg
+og_image: ./social-image.jpg
