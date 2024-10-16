@@ -31,12 +31,12 @@ Current breakdown:
 4. Direct Listener Support: $350 million
 
 Categories still to be estimated:
-5. Podcast Recording and Editing Software
-6. Podcast Production Services
-7. Podcast Consulting and Education
-8. Podcast Events and Conferences
-9. Other Podcast Software
-10. Other Revenues (beyond advertising)
+- Podcast Recording and Editing Software
+- Podcast Production Services
+- Podcast Consulting and Education
+- Podcast Events and Conferences
+- Other Podcast Software
+- Other Revenues (beyond advertising)
 
 Total current range: $4.085 billion - $4.8 billion (likely to increase as we add estimates for additional categories)
 
