@@ -96,5 +96,5 @@ The global podcast industry continues to grow rapidly, with significant revenue 
 [^5]: https://www.listennotes.com/en/podcast-stats/?srsltid=AfmBOopW_FOhVOg5RTroq4zysUZU17JhU_K1hR0_5zGtJ0REMpTqxARj#hosting
 [^6]: https://podcastindustry.org/sources/financial-statements/audio-technina-companies_house_document.pdf
 [^7]: https://en-us.sennheiser.com/newsroom/sennheiser-group-looks-back-on-a-successful-2023-fiscal-year
-[^8]: [URL for Logitech SEC filing]
-[^9]: [URL for Patreon press release]
+[^8]: https://podcastindustry.org/sources/financial-statements/LOGI-10-Q_2019-01-24.pdf
+[^9]: https://podcastindustry.org/sources/press-releases/patreon-press-release-aug-1-2024.pdf
