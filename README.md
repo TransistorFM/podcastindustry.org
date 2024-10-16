@@ -16,9 +16,9 @@ My goal here is to publish these findings here, and have this page function as a
 
 My hope is that the contributions and discussion about these numbers here would lead to a more accurate estimate of the podcast industry's size.
 
-Cheers,
- Justin Jackson
- Co-founder of [Transistor.fm](https://transistor.fm)
+Cheers,  
+Justin Jackson  
+Co-founder of [Transistor.fm](https://transistor.fm)
 
 ## Overview
 
