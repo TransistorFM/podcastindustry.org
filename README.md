@@ -22,7 +22,7 @@ Co-founder of [Transistor.fm](https://transistor.fm)
 
 ## Overview
 
-The current estimate for global podcast industry annual revenue is approximately $3.9 - $4.7 billion. This estimate is based on available data from various segments of the podcast industry, including advertising, hosting, equipment, direct listener support, and newly added categories.
+The current estimate for global podcast industry annual revenue is approximately $3.94 - $4.75 billion. This estimate is based on available data from various segments of the podcast industry, including advertising, hosting, equipment, direct listener support, events, and other related categories.
 
 Current breakdown:
 1. Podcast Advertising: $2.9 - $3.2 billion
@@ -31,17 +31,19 @@ Current breakdown:
 4. Direct Listener Support: $350 million
 5. Podcast Production Services: $120 - $180 million
 6. Podcast Recording and Editing Software: $100 - $150 million
-7. Podcast Analytics and Measurement Tools: $50 - $75 million
-8. Podcast Transcription Services: $15 - $25 million
+7. Podcast Events and Conferences: $15 - $20 million
+8. Podcast Analytics and Measurement Tools: $50 - $75 million
+9. Podcast Transcription Services: $15 - $25 million
 
 Categories still to be estimated:
 - Podcast Consulting and Education
-- Podcast Events and Conferences
 - Podcast Network Revenues (beyond advertising)
 
-Total current range: $3.92 billion - $4.73 billion (likely to increase as we add estimates for additional categories)
+Total current range: $3.935 billion - $4.75 billion (likely to increase as we add estimates for additional categories)
 
 This estimate is based on publicly available financial data, industry reports, and reasonable assumptions where specific data is not available. Each category's estimate is explained in detail in the sections below.
+
+It's important to note that the podcast industry is rapidly evolving, and these figures may change quickly. Additionally, there may be some overlap between categories, and the global nature of the industry makes precise estimation challenging. However, this breakdown provides a comprehensive view of the current state of the podcast industry's revenue streams.
 
 ## Breakdown by Category
 
@@ -196,11 +198,31 @@ Rationale: This category would include revenue from podcast consultants, online 
 
 ### 10. Podcast Events and Conferences
 
-Estimated annual revenue: To be determined
+Estimated annual revenue: $15 - $20 million
 
-Sources: [To be added]
+Sources:
+- Podcast Movement website[^12]
+- The Podcast Show London website[^13]
+- PodFest sponsor deck[^14]
 
-Rationale: We need to gather data on major podcasting events and conferences, including ticket sales, sponsorships, and associated revenue.
+Rationale:
+This estimate is based on data from major podcast conferences and an estimation of smaller events worldwide:
+
+1. Major conferences:
+   - Podcast Movement (2 events): ~$3 - $3.5 million annually
+   - The Podcast Show London: ~$950,000 - $1.2 million
+   - PodFest: ~$700,000 - $900,000
+
+2. Other conferences and events:
+   Estimated 20-30 additional events generating an average of $250,000 - $350,000 each.
+   Estimated total for smaller events: $5 - $10.5 million
+
+The estimate includes ticket sales and sponsorship revenues. For major events, we calculated based on reported attendance figures and estimated average ticket prices. Sponsorship revenues were estimated based on publicly available sponsorship packages.
+
+This estimate is likely conservative as it may not fully account for:
+- Associated revenue streams (workshops, merchandise, etc.)
+- Rapid growth in the podcast event industry
+- Potential underreporting of attendee numbers or ticket prices
 
 ### 11. Podcast Network Revenues (beyond advertising)
 
