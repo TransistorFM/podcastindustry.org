@@ -56,7 +56,7 @@ The global podcast industry continues to grow rapidly, with significant revenue 
 
 [^1]: https://www.iab.com/wp-content/uploads/2024/05/IAB_US_Podcast_Advertising_Revenue_Study_FY2023_May_2024.pdf
 [^2]: [URL for estimate of U.S. market share]
-[^3]: [URL for Libsyn financial statements]
+[^3]: https://podcastindustry.org/sources/financial-statements/Libsyn-Audited-Financial-Statements-Liberated-Syndication-12-31-2023-May-6-2024.pdf
 [^4]: [URL for Acast financial statements]
 [^5]: [URL for RSS feeds market share data]
 [^6]: [URL for Audio-Technica annual statement]
