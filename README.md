@@ -109,6 +109,8 @@ Further research and data collection could help refine this estimate.
 
 The global podcast industry continues to grow rapidly, with significant revenue streams from advertising, hosting services, equipment sales, and direct listener support. As the industry matures and more data becomes available, we expect to be able to provide more precise estimates of its economic impact.
 
+> This page is hosted by [Transistor.fm](https://transistor.fm). Ready to [start a podcast](https://transistor.fm/how-to-start-a-podcast/)? Create as [many podcasts as you'd like](https://transistor.fm/features/host-multiple-podcasts-on-the-same-account/) on Transistor, and we'll [distribute your shows](https://transistor.fm/features/distribution/) to Apple, Spotify, YouTube, and more.
+
 [^1]: https://www.iab.com/wp-content/uploads/2024/05/IAB_US_Podcast_Advertising_Revenue_Study_FY2023_May_2024.pdf
 [^2]: [URL for estimate of U.S. market share]
 [^3]: https://podcastindustry.org/sources/financial-statements/Libsyn-Audited-Financial-Statements-Liberated-Syndication-12-31-2023-May-6-2024.pdf
@@ -119,5 +121,3 @@ The global podcast industry continues to grow rapidly, with significant revenue 
 [^8]: https://podcastindustry.org/sources/financial-statements/LOGI-10-Q_2019-01-24.pdf
 [^9]: https://podcastindustry.org/sources/press-releases/patreon-press-release-aug-1-2024.pdf
 
-> [!NOTE]
-> This page is hosted by [Transistor.fm](https://transistor.fm). Ready to [start a podcast](https://transistor.fm/how-to-start-a-podcast/)? Create as [many podcasts as you'd like](https://transistor.fm/features/host-multiple-podcasts-on-the-same-account/) on Transistor, and we'll [distribute your shows](https://transistor.fm/features/distribution/) to Apple, Spotify, YouTube, and more.
