@@ -1,4 +1,4 @@
-# Global Podcast Industry Annual Revenue Estimate
+# Podcast Industry Statistics 2024: Global Market Size and Growth
 
 *Last update*: Oct 16, 2024
 
