@@ -58,7 +58,7 @@ The global podcast industry continues to grow rapidly, with significant revenue 
 [^2]: [URL for estimate of U.S. market share]
 [^3]: https://podcastindustry.org/sources/financial-statements/Libsyn-Audited-Financial-Statements-Liberated-Syndication-12-31-2023-May-6-2024.pdf
 [^4]: [URL for Acast financial statements]
-[^5]: [URL for RSS feeds market share data]
+[^5]: https://www.listennotes.com/en/podcast-stats/?srsltid=AfmBOopW_FOhVOg5RTroq4zysUZU17JhU_K1hR0_5zGtJ0REMpTqxARj#hosting
 [^6]: [URL for Audio-Technica annual statement]
 [^7]: https://en-us.sennheiser.com/newsroom/sennheiser-group-looks-back-on-a-successful-2023-fiscal-year
 [^8]: [URL for Logitech SEC filing]
