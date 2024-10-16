@@ -35,9 +35,9 @@ Current breakdown:
 8. Podcast Transcription Services: $15 - $25 million
 
 Categories still to be estimated:
-9. Podcast Consulting and Education
-10. Podcast Events and Conferences
-11. Podcast Network Revenues (beyond advertising)
+- Podcast Consulting and Education
+- Podcast Events and Conferences
+- Podcast Network Revenues (beyond advertising)
 
 Total current range: $3.92 billion - $4.73 billion (likely to increase as we add estimates for additional categories)
 
