@@ -251,15 +251,18 @@ The goal here, whenever possible, is to avoid sourcing generalized estimates fro
 
 > This page is hosted by [Transistor.fm](https://transistor.fm). Ready to [start a podcast](https://transistor.fm/how-to-start-a-podcast/)? Create as [many podcasts as you'd like](https://transistor.fm/features/host-multiple-podcasts-on-the-same-account/) on Transistor, and we'll [distribute your shows](https://transistor.fm/features/distribution/) to Apple, Spotify, YouTube, and more.
 
-[^1]: https://www.iab.com/insights/u-s-podcast-advertising-revenue-study-fy-2022-results/
-[^2]: https://iabaustralia.com.au/podcast-revenue-a-global-perspective/
-[^3]: https://www.warc.com/content/feed/global-advertising-to-top-1-trillion-in-2024-as-big-five-attract-most-spending/en-GB/8558
-[^4]: https://www.oberlo.com/statistics/digital-ad-spend-by-country
-[^5]: https://podcastindustry.org/sources/financial-statements/Libsyn-Audited-Financial-Statements-Liberated-Syndication-12-31-2023-May-6-2024.pdf
-[^6]: https://podcastindustry.org/sources/financial-statements/acast-year-end-report-2023.pdf
-[^7]: https://www.listennotes.com/podcast-stats/?srsltid=AfmBOopW_FOhVOg5RTroq4zysUZU17JhU_K1hR0_5zGtJ0REMpTqxARj#hosting
-[^8]: https://podcastindustry.org/sources/financial-statements/audio-technina-companies_house_document.pdf
-[^9]: https://en-us.sennheiser.com/newsroom/sennheiser-group-looks-back-on-a-successful-2023-fiscal-year
-[^10]: https://podcastindustry.org/sources/financial-statements/LOGI-10-Q_2019-01-24.pdf
-[^11]: https://podcastindustry.org/sources/press-releases/patreon-press-release-aug-1-2024.pdf
+[^1]: [IAB U.S. Podcast Advertising Revenue Study FY 2022](https://www.iab.com/insights/u-s-podcast-advertising-revenue-study-fy-2022-results/)
+[^2]: [IAB Australia: Podcast revenue: a global perspective](https://iabaustralia.com.au/podcast-revenue-a-global-perspective/)
+[^3]: [WARC: Global advertising to top $1 trillion in 2024, as big five attract most spending](https://www.warc.com/content/feed/global-advertising-to-top-1-trillion-in-2024-as-big-five-attract-most-spending/en-GB/8558)
+[^4]: [Oberlo: Digital Ad Spend by Country](https://www.oberlo.com/statistics/digital-ad-spend-by-country)
+[^5]: [Libsyn Audited Financial Statements 2023](https://podcastindustry.org/sources/financial-statements/Libsyn-Audited-Financial-Statements-Liberated-Syndication-12-31-2023-May-6-2024.pdf)
+[^6]: [Acast Year End Report 2023](https://podcastindustry.org/sources/financial-statements/acast-year-end-report-2023.pdf)
+[^7]: [Listen Notes Podcast Stats](https://www.listennotes.com/podcast-stats/?srsltid=AfmBOopW_FOhVOg5RTroq4zysUZU17JhU_K1hR0_5zGtJ0REMpTqxARj#hosting)
+[^8]: [Audio-Technica Companies House Document](https://podcastindustry.org/sources/financial-statements/audio-technina-companies_house_document.pdf)
+[^9]: [Sennheiser Group Looks Back on a Successful 2023 Fiscal Year](https://en-us.sennheiser.com/newsroom/sennheiser-group-looks-back-on-a-successful-2023-fiscal-year)
+[^10]: [Logitech SEC Filing Q2 2019](https://podcastindustry.org/sources/financial-statements/LOGI-10-Q_2019-01-24.pdf)
+[^11]: [Patreon Press Release: Podcasters earned over $350 million from their real fans on Patreon last year](https://podcastindustry.org/sources/press-releases/patreon-press-release-aug-1-2024.pdf)
 [^12]: Reddit threads discussing podcast expenses: [Thread 1](https://www.reddit.com/r/podcasting/comments/how_much_do_you_spend_a_month_on_your_podcast/) and [Thread 2](https://www.reddit.com/r/podcasting/comments/how_much_in_total_have_you_spent_on_your_podcast/)
+[^13]: [Podcast Movement Events](https://podcastmovement.com/events/)
+[^14]: [The Podcast Show London](https://www.thepodcastshowlondon.com/)
+[^15]: [PodFest Expo Sponsor Deck](https://podfestexpo.com/sponsordeck.pdf)
