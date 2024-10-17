@@ -1,4 +1,4 @@
-*Last update*: Oct 16, 2024
+*Last update*: Oct 17, 2024
 
 # How big is the global podcast market?
 
