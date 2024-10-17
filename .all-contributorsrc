@@ -1,0 +1,29 @@
+{
+  "projectName": "app",
+  "projectOwner": "podcastindustry.org",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "mijustin",
+      "name": "Justin Jackson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1250335?v=4",
+      "profile": "https://justinjackson.ca",
+      "contributions": [
+        "code",
+        "ideas",
+        "infra",
+        "test"
+      ]
+    },
+  ],
+  "contributorsPerLine": 7,
+  "linkToUsage": true,
+  "skipCi": true,
+  "commitConvention": "angular"
+}
