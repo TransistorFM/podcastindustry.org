@@ -1,6 +1,6 @@
-# Podcast Industry Statistics 2024: Global Market Size and Growth
-
 *Last update*: Oct 16, 2024
+
+# How big is the global podcast market?
 
 ## Introduction
 
