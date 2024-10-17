@@ -256,16 +256,7 @@ The goal here, whenever possible, is to avoid sourcing generalized estimates fro
 
 > This page is hosted by [Transistor.fm](https://transistor.fm). Ready to [start a podcast](https://transistor.fm/how-to-start-a-podcast/)? Create as [many podcasts as you'd like](https://transistor.fm/features/host-multiple-podcasts-on-the-same-account/) on Transistor, and we'll [distribute your shows](https://transistor.fm/features/distribution/) to Apple, Spotify, YouTube, and more.
 
-## Contributors
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
+## Footnotes
 
 [^1]: [IAB U.S. Podcast Advertising Revenue Study FY 2022](https://www.iab.com/insights/u-s-podcast-advertising-revenue-study-fy-2022-results/)
 [^2]: [IAB Australia: Podcast revenue: a global perspective](https://iabaustralia.com.au/podcast-revenue-a-global-perspective/)
