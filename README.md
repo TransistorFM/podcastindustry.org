@@ -4,9 +4,14 @@
 
 ## Introduction
 
-I was curious about the size of the podcast industry. As a participant, I wanted to understand two key numbers often used to measure the market. 
+I am personally curious abou the size of the podcast market. As industery participants, having an accurate sense of how big this market is (and how fast it's growing) can help us make strategic decisions. 
 
-First, a U.S. figure from the IAB showed that annual podcast advertising revenue in 2023 was nearly $2 billion. Second, Grandview Research estimated the entire podcast market, including all segments, to be $20 billion a year. This number seemed off to me.
+Currently, there are two public numbers that are often used to describe the overall value of the podcasting industry: 
+
+1. [A figure from the IAB](https://www.iab.com/wp-content/uploads/2024/05/IAB_US_Podcast_Advertising_Revenue_Study_FY2023_May_2024.pdf) shows that annual podcast advertising revenue in the USA was nearly $2 billion in 2023.
+2. The second number is from [Grandview Research](https://www.grandviewresearch.com/industry-analysis/podcast-market#:~:text=How%20big%20is%20the%20podcasting,USD%2023.75%20billion%20in%202023.), who estimates the entire podcast market, including all segments, to be $20 billion a year.
+
+Unfortunately, neither the IAB nor Grandview Research have shared a meticulous description of their methodology or sources, which makes it difficult to verify or substantiate their estimates.
 
 So, I decided to explore these numbers myself. Using Claude AI as my research assistant, I've collected  annual returns, financial statements, and other public information. Using this data, I've had Claude estimate the size of each category. 
 
