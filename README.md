@@ -27,7 +27,7 @@ Co-founder of [Transistor.fm](https://transistor.fm)
 
 ## Overview
 
-**Currently, our estimate for global podcast industry's annual revenue is approximately $3.94 - $4.75 billion. **
+**Currently, our estimate for global podcast industry's annual revenue is approximately $3.94 - $4.75 billion.**
 
 This estimate is based on available data from various segments of the podcast industry, including advertising, hosting, equipment, direct listener support, events, and other related categories.
 
