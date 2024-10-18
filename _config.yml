@@ -1,4 +1,4 @@
-remote_theme: daviddarnes/alembic@main
+theme: minima
 plugins:
 - jekyll-remote-theme
 - jekyll-seo-tag
