@@ -41,15 +41,18 @@ This estimate is based on available data from various segments of the podcast in
 
 ### Breakdown by category:
 
-1. Podcast Advertising: $2.9 - $3.2 billion
-2. Podcast Hosting: $100 - $150 million
-3. Podcasting Equipment: $285 - $300 million
-4. Direct Listener Support: $350 million
-5. Podcast Production Services: $120 - $180 million
-6. Podcast Recording and Editing Software: $100 - $150 million
-7. Podcast Events and Conferences: $15 - $20 million
-8. Podcast Analytics and Measurement Tools: $50 - $75 million
-9. Podcast Transcription Services: $15 - $25 million
+| Category | 2024 |
+|----------|------|
+| Podcast Advertising | $2.9 - $3.2 billion |
+| Podcast Hosting | $100 - $150 million |
+| Podcasting Equipment | $285 - $300 million |
+| Direct Listener Support | $350 million |
+| Podcast Production Services | $120 - $180 million |
+| Podcast Recording and Editing Software | $100 - $150 million |
+| Podcast Events and Conferences | $15 - $20 million |
+| Podcast Analytics and Measurement Tools | $50 - $75 million |
+| Podcast Transcription Services | $15 - $25 million |
+| **Total** | **$3.94 - $4.75 billion** |
 
 Categories that still need to be estimated:
 - Podcast Consulting and Education
