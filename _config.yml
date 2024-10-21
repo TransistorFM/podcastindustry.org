@@ -1,4 +1,4 @@
-theme: jekyll-athena
+remote_theme: broccolini/athena
 plugins:
 - jekyll-remote-theme
 - jekyll-seo-tag
