@@ -1,4 +1,4 @@
-theme: minima
+theme: jekyll-athena
 plugins:
 - jekyll-remote-theme
 - jekyll-seo-tag
