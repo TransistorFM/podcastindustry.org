@@ -17,20 +17,20 @@ Currently, two public numbers are often cited to describe the overall value of t
 1. [A figure from the IAB](https://www.iab.com/wp-content/uploads/2024/05/IAB_US_Podcast_Advertising_Revenue_Study_FY2023_May_2024.pdf) shows that annual podcast advertising revenue in the USA was nearly \$2 billion in 2023.
 2. The second number is from [Grandview Research](https://www.grandviewresearch.com/industry-analysis/podcast-market#:~\:text=How%20big%20is%20the%20podcasting,USD%2023.75%20billion%20in%202023.), who estimates the entire podcast market, including all segments, to be \$20 billion a year.
 
-Unfortunately, neither the IAB nor Grandview Research have shared a meticulous description of their methodology or sources, which makes it difficult to verify or substantiate their estimates.
+Unfortunately, neither the IAB nor Grandview Research has shared a meticulous description of their methodology or sources, making verifying or substantiating their estimates difficult.
 
 We've collected annual returns, financial statements, and other public information. Using this data, we estimate the size of each sub-category within the podcast industry.
 
-We will continually update and publish findings here, and this page will function as a collaborative wiki that anyone can contribute to.
+We will continually update and publish our findings here. This page will function as a collaborative wiki to which anyone can contribute.
 
 [This page is hosted on a public GitHub repo](https://github.com/TransistorFM/podcastindustry.org/); anyone can issue a pull request with sources and rationale.
 
-I hope that the contributions and discussion about these numbers here would lead to an accurate estimate of the podcast industry's size.
+I hope the contributions and discussion about these numbers here will lead to an accurate estimate of the podcast industry's size.
 
 Cheers,\
 Justin Jackson\
-Co-founder of [Transistor.fm](https://transistor.fm)
-[Find me on Bluesky](https://bsky.app/profile/justinjackson.ca)
+Co-founder of [Transistor.fm](https://transistor.fm)\
+[Find me on Bluesky](https://bsky.app/profile/justinjackson.ca)\
 [Find me on LinkedIn](https://www.linkedin.com/in/justinijackson/)
 
 ## Overview
@@ -76,11 +76,11 @@ Sources:
 - IAB Australia Podcast Advertising Market Report (2023)[^3]
 - WARC Global Advertising Trends Report (2023)[^4]
 - Oberlo Digital Ad Spend by Country Report (2023)[^5]
-- DWNLOAD Q3 2024 Report: Highlights stronger-than-expected growth with significant increases in programmatic ad sales and political advertising [^17]
-- SiriusXM, iHeartMedia, and Acast financials indicating growth above industry averages [^18]
+- DWNLOAD Q3 2024 Report: Highlights stronger-than-expected growth with significant increases in programmatic ad sales and political advertising [^18]
+- SiriusXM, iHeartMedia, and Acast financials indicate growth above industry averages [^19]
 
 Rationale:
-The IAB study provides a concrete figure for the U.S. market at $1.9 billion. To estimate the global market, we analyzed data from multiple sources (above).
+The IAB study provides a concrete figure for the U.S. market at $1.9 billion. We analyzed data from multiple sources (above) to estimate the global market.
 
 Based on this data, we estimate that the U.S. represents approximately 60-65% of the global podcast advertising market. This estimate is based on these findings:
 
@@ -93,7 +93,7 @@ Calculating from the U.S. revenue of $1.9 billion:
 - If the U.S. is 65% of global: $1.9 billion / 0.65 = $2.92 billion global
 - If the U.S. is 60% of global: $1.9 billion / 0.60 = $3.17 billion global
 
-This results in our estimated $2.9 - $3.2 billion range for global podcast advertising revenue. In Dec 2024, I upped my overall estimate to $3 - $3.4 billion due to strong Q3 2024 performance across major platforms, which suggests podcast advertising is growing faster than originally forecasted. Programmatic and political ads have provided additional revenue boosts.
+This results in our estimated $2.9 - $3.2 billion range for global podcast advertising revenue. In December 2024, I upped my overall estimate to $3 - $3.4 billion due to strong Q3 2024 performance across major platforms, which could suggest podcast advertising is growing faster than originally forecasted. Programmatic and political ads have provided additional revenue boosts.
 
 It's important to note that this estimate is based on available data primarily from English-speaking countries and major digital advertising markets. The actual figure could be higher if we had more comprehensive data from non-English speaking markets with growing podcast industries.
 
