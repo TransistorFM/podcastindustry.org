@@ -39,7 +39,7 @@ Co-founder of [Transistor.fm](https://transistor.fm)\
 
 This estimate is based on available data from various segments of the podcast industry, including advertising, hosting, equipment, direct listener support, events, and other related categories.
 
-![Global Podcast Market Revenues by Category (millions USD)](https://github.com/user-attachments/assets/6bd10c6a-d464-496d-9684-9d7438b2bbd5)
+![global-podcast-revenue-by-category-2024](https://github.com/user-attachments/assets/655ddac8-088e-4af8-b4c9-69f78d0667b6)
 
 ### Breakdown by category:
 
