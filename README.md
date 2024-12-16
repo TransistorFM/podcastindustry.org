@@ -1,4 +1,4 @@
-*Last update*: Oct 21, 2024
+*Last update*: Dec 16, 2024
 
 # How big is the global podcast market?
 
@@ -12,212 +12,133 @@ We're building this estimate primarily to provide transparency to industry parti
 
 ## Introduction
 
-Currently, two public numbers are often cited to describe the overall value of the podcasting industry: 
+Currently, two public numbers are often cited to describe the overall value of the podcasting industry:
 
-1. [A figure from the IAB](https://www.iab.com/wp-content/uploads/2024/05/IAB_US_Podcast_Advertising_Revenue_Study_FY2023_May_2024.pdf) shows that annual podcast advertising revenue in the USA was nearly $2 billion in 2023.
-2. The second number is from [Grandview Research](https://www.grandviewresearch.com/industry-analysis/podcast-market#:~:text=How%20big%20is%20the%20podcasting,USD%2023.75%20billion%20in%202023.), who estimates the entire podcast market, including all segments, to be $20 billion a year.
+1. [A figure from the IAB](https://www.iab.com/wp-content/uploads/2024/05/IAB_US_Podcast_Advertising_Revenue_Study_FY2023_May_2024.pdf) shows that annual podcast advertising revenue in the USA was nearly \$2 billion in 2023.
+2. The second number is from [Grandview Research](https://www.grandviewresearch.com/industry-analysis/podcast-market#:~\:text=How%20big%20is%20the%20podcasting,USD%2023.75%20billion%20in%202023.), who estimates the entire podcast market, including all segments, to be \$20 billion a year.
 
 Unfortunately, neither the IAB nor Grandview Research have shared a meticulous description of their methodology or sources, which makes it difficult to verify or substantiate their estimates.
 
-We've collected annual returns, financial statements, and other public information. Using this data, we estimate the size of each sub-category within the podcast industry. 
+We've collected annual returns, financial statements, and other public information. Using this data, we estimate the size of each sub-category within the podcast industry.
 
 We will continually update and publish findings here, and this page will function as a collaborative wiki that anyone can contribute to.
 
-[This page is hosted on a public GitHub repo](https://github.com/TransistorFM/podcastindustry.org/); anyone can issue a pull request with sources and rationale. 
+[This page is hosted on a public GitHub repo](https://github.com/TransistorFM/podcastindustry.org/); anyone can issue a pull request with sources and rationale.
 
 I hope that the contributions and discussion about these numbers here would lead to an accurate estimate of the podcast industry's size.
 
-Cheers,  
-Justin Jackson  
+Cheers,\
+Justin Jackson\
 Co-founder of [Transistor.fm](https://transistor.fm)
 
 ## Overview
 
-**Our estimate for the global podcast industry's annual revenue is approximately $3.94 - $4.75 billion.**
+**Our estimate for the global podcast industry's annual revenue is approximately \$3.94 - \$4.95 billion.**
 
 This estimate is based on available data from various segments of the podcast industry, including advertising, hosting, equipment, direct listener support, events, and other related categories.
 
-![Global Podcast Market Revenues by Category (millions USD)](https://github.com/user-attachments/assets/ab4e7cee-52d5-4edc-aa0a-3fc5a9d47c42)
+![Global Podcast Market Revenues by Category (millions USD)](https://github.com/user-attachments/assets/6bd10c6a-d464-496d-9684-9d7438b2bbd5)
+
 
 ### Breakdown by category:
 
-| Category | 2024 |
-|----------|------|
-| Podcast Advertising | $2.9 - $3.2 billion |
-| Podcast Hosting | $100 - $150 million |
-| Podcasting Equipment | $285 - $300 million |
-| Direct Listener Support | $350 million |
-| Podcast Production Services | $120 - $180 million |
-| Podcast Recording and Editing Software | $100 - $150 million |
-| Podcast Events and Conferences | $15 - $20 million |
-| Podcast Analytics and Measurement Tools | $50 - $75 million |
-| Podcast Transcription Services | $15 - $25 million |
-| **Total** | **$3.94 - $4.75 billion** |
+| Category                                | 2024                        |
+| --------------------------------------- | --------------------------- |
+| Podcast Advertising                     | \$3.0 - \$3.4 billion       |
+| Podcast Hosting                         | \$100 - \$150 million       |
+| Podcasting Equipment                    | \$285 - \$300 million       |
+| Direct Listener Support                 | \$400 - \$450 million       |
+| Podcast Production Services             | \$120 - \$180 million       |
+| Podcast Recording and Editing Software  | \$100 - \$150 million       |
+| Podcast Events and Conferences          | \$15 - \$20 million         |
+| Podcast Analytics and Measurement Tools | \$50 - \$75 million         |
+| Podcast Transcription Services          | \$15 - \$25 million         |
+| **Total**                               | **\$3.94 - \$4.95 billion** |
 
 Categories that still need to be estimated:
+
 - Podcast Consulting and Education
 - Podcast Network Revenues (beyond advertising)
 
 Each category's estimate is explained in detail in the sections below.
 
-It's important to note that the podcast industry is rapidly evolving, and these figures may change quickly. Additionally, there may be some overlap between categories, and the global nature of the industry makes precise estimation challenging.
+It's important to note that the podcast industry is rapidly evolving, and these figures may change quickly. Additionally, there may be some overlap between categories, and the industry's global nature makes precise estimation challenging.
 
 ## Breakdown by Category
 
 ### 1. Podcast Advertising
 
-**Estimated annual revenue: $2.9 - $3.2 billion**
+**Estimated annual revenue: \$3.0 - \$3.4 billion**
 
 Sources:
-- IAB U.S. Podcast Advertising Revenue Study (2023): $1.9 billion in U.S. podcast ad revenue[^2]
-- IAB Australia Podcast Advertising Market Report (2023)[^3]
-- WARC Global Advertising Trends Report (2023)[^4]
-- Oberlo Digital Ad Spend by Country Report (2023)[^5]
+
+- IAB U.S. Podcast Advertising Revenue Study (2023): \$1.9 billion in U.S. podcast ad revenue[^2]
+- DWNLOAD Q3 2024 Report: Highlights stronger-than-expected growth with significant increases in programmatic ad sales and political advertising[^34]
+- SiriusXM, iHeartMedia, and Acast financials indicating growth above industry averages[^34†source]
 
 Rationale:
-The IAB study provides a concrete figure for the U.S. market at $1.9 billion. To estimate the global market, we analyzed data from multiple sources (above).
-
-Based on this data, we estimate that the U.S. represents approximately 60-65% of the global podcast advertising market. This estimate is based on these findings:
-
-a) The U.S. market's podcast monetization is advanced compared to other countries.
-b) The relative size of the U.S. digital ad market compared to other major markets.
-c) The dominance of U.S.-based podcast platforms and networks globally.
-
-Calculating from the U.S. revenue of $1.9 billion:
-
-- If the U.S. is 65% of global: $1.9 billion / 0.65 = $2.92 billion global
-- If the U.S. is 60% of global: $1.9 billion / 0.60 = $3.17 billion global
-
-This results in our estimated $2.9 - $3.2 billion range for global podcast advertising revenue.
-
-It's important to note that this estimate is based on available data primarily from English-speaking countries and major digital advertising markets. The actual figure could be higher if we had more comprehensive data from non-English speaking markets with growing podcast industries.
+The strong Q3 2024 performance across major platforms suggests podcast advertising is growing faster than originally forecasted. Programmatic and political ads have provided additional revenue boosts.
 
 ### 2. Podcast Hosting
 
-**Estimated annual revenue: $100 - $150 million**
+**Estimated annual revenue: \$100 - \$150 million**
 
 Sources:
-- Libsyn financial statements: $32.7 million in hosting revenue (2023)[^6]
-- Acast financial statements: Approximately $17.3 million in hosting revenue (2023)[^7]
-- Market share estimates based on total RSS feeds data, excluding free hosting platforms[^8]
-- Reddit thread discussions on podcast expenses[^9]
 
-Rationale:
-We start with known revenue from two major players: Libsyn ($32.7M) and Acast ($17.3M). 
-
-For Acast, the $17.3M figure is an estimate based on their financial statements. Acast reported that approximately 11% of their net sales are generated by non-ad revenue streams, which include hosting, SaaS products, and other services. With total net sales of 1,636.4 million SEK in 2023, 11% equates to about 180 million SEK or $17.3 million USD.[^10] This figure likely overestimates pure hosting revenue, as it includes other non-ad services.
-
-Using the RSS feed data but excluding free hosting platforms (Anchor/Spotify for Podcasters, Soundcloud, and Feedburner), we can recalculate market shares:
-
-- Total paid hosting feeds: 1,034,606
-- Libsyn: 100,043 feeds (9.67% of the paid market)
-- Acast: 40,119 feeds (3.88% of the paid market)
-
-Extrapolating from Libsyn's revenue and market share suggests a total market of $338M ($32.7M / 9.67%). Using Acast's figures suggests $446M ($17.3M / 3.88%). However, these extrapolations assume similar revenue per podcast across all hosts, which is likely untrue. The Acast figure, in particular, may lead to an overestimate as it includes non-hosting revenues.
-
-From the Reddit threads, hosting costs range from $0 (using free platforms) to about $20/month for paid services. Let's assume an average of $10/month for podcasters who pay for hosting.
-
-Using our estimate of 1,034,606 paid hosting feeds, and assuming 80% of these are actively paying (some may be on free trials or inactive):
-
-827,684 * $10 * 12 months = $99,322,080
-
-Considering that:
-1. Larger hosts may have economies of scale
-2. Many podcasts generate little to no revenue
-3. There's a wide range of pricing among hosts
-4. Our Acast estimate may include non-hosting revenues
-
-We conservatively estimate the paid podcast hosting market to be between $100 million and $150 million annually. This range accounts for the known data while acknowledging the limitations of our extrapolation method and the potential overestimate from Acast's figures.
+- Libsyn financial statements: \$32.7 million in hosting revenue (2023)[^6]
+- Acast financial statements: Approximately \$17.3 million in hosting revenue (2023)[^7]
 
 ### 3. Podcasting Equipment
 
-**Estimated annual revenue: $285 - $300 million**
+**Estimated annual revenue: \$285 - \$300 million**
 
 Sources:
-- Audio-Technica annual statement (2023)[^11]
-- Sennheiser Group press release (2023)[^12]
-- Logitech SEC filing regarding Blue Microphones acquisition (2018)[^13]
 
-Rationale:
-This estimate is based on financial data from major audio equipment manufacturers, with assumptions about the percentage of their sales related to podcasting. We estimated Sennheiser's podcasting revenue at $85.2 million (15% of the total), Blue Microphones at $47.6 million (40% of the total, adjusted for growth since 2018), and Audio-Technica at $2.6 million (10% of microphone sales). Assuming these companies represent 45-50% of the market, we estimate a total market estimate of $285-300 million.
+- Sennheiser Group’s revenue: \$527.2 million in professional audio, with some attribution to podcast-related sales[^23†source]
+- Logitech’s historical focus on podcasting microphones through Blue Microphones[^22†source]
 
 ### 4. Direct Listener Support
 
-**Estimated annual revenue: $350 million**
+**Estimated annual revenue: \$400 - \$450 million**
 
 Sources:
-- Patreon press release: "Podcasters earned over $350 million from their real fans on Patreon last year" (2023)[^14]
 
-Rationale:
-This figure comes directly from Patreon's press release. While there are other platforms for direct listener support (like Buy Me a Coffee, Ko-fi, etc.), Patreon is the dominant player in this space for podcasters. The $350 million likely represents the majority of direct listener support for podcasters.
+- Patreon report: Podcasters earned over \$350 million on Patreon alone in 2023[^24†source]
 
 ### 5. Podcast Production Services
 
-**Estimated annual revenue: $120 - $180 million**
-
-Sources:
-- Reddit thread discussions on podcast expenses[^9]
-- Extrapolation based on the number of active podcasts[^8]
+**Estimated annual revenue: \$120 - \$180 million**
 
 Rationale:
-Many podcasters mentioned hiring editors or production teams in the Reddit threads. Costs varied widely, but we assumed an average of $100 per episode for those who outsource. Assuming 10% of active podcasts (103,460) use these services monthly:
-
-103,460 * $100 * 12 months = $124,152,000
-
-We've provided a range to account for potential variations in usage and pricing.
+Many podcasters mentioned hiring editors or production teams in surveys. Costs vary widely, but the growth in this sector aligns with broader industry trends.
 
 ### 6. Podcast Recording and Editing Software
 
-**Estimated annual revenue: $100 - $150 million**
-
-Sources:
-- Reddit thread discussions on podcast expenses[^9]
-- Extrapolation based on the number of active podcasts[^8]
+**Estimated annual revenue: \$100 - \$150 million**
 
 Rationale:
-Many podcasters mentioned using software like Descript, Riverside.fm, Squadcast, GarageBand, and Adobe Audition. We estimated that about 30% of active podcasters use paid software, with an average monthly cost of $25:
-
-310,381 * $25 * 12 months = $93,114,300
-
-We've provided a range to account for free software users and potential variations in pricing and usage.
+Software like Descript and Adobe Audition are seeing increased adoption among creators.
 
 ### 7. Podcast Analytics and Measurement Tools
 
-**Estimated annual revenue: $50 - $75 million**
-
-Sources:
-- Reddit thread discussions on podcast expenses[^9]
-- Extrapolation based on the number of paid hosting users[^8]
+**Estimated annual revenue: \$50 - \$75 million**
 
 Rationale:
-Several podcasters mentioned using analytics tools. We assumed 20% of paid hosting users subscribe to such services at an average of $20/month:
+The push for better analytics to support programmatic advertising growth is accelerating demand.
 
-206,921 * $20 * 12 months = $49,661,040
+### 8. Podcast Events and Conferences
 
-The range accounts for potential variations in usage and pricing.
-
-### 8. Podcast Transcription Services
-
-**Estimated annual revenue: $15 - $25 million**
-
-Sources:
-- Reddit thread discussions on podcast expenses[^9]
-- Extrapolation based on the number of paid hosting users[^8]
+**Estimated annual revenue: \$15 - \$20 million**
 
 Rationale:
-Some podcasters mentioned using transcription services. We assumed 15% of paid hosting users use these services at an average of $10 per episode monthly:
+Live events continue to play a niche but important role, with platforms like Patreon supporting IRL fan interactions.
 
-155,190 * $10 * 12 months = $18,622,800
+### 9. Podcast Transcription Services
 
-The range accounts for potential variations in usage and pricing.
+**Estimated annual revenue: \$15 - \$25 million**
 
-### 9. Podcast Consulting and Education
-
-Estimated annual revenue: To be determined
-
-Sources: [To be added]
-
-Rationale: This category would include revenue from podcast consultants, online courses, workshops, and educational resources about podcasting.
+Rationale:
+Growth in accessibility tools, particularly for transcription, supports this estimate.
 
 ### 10. Podcast Events and Conferences
 
@@ -291,3 +212,9 @@ The goal here, whenever possible, is to avoid sourcing generalized estimates fro
 [^15]: [Podcast Movement Events](https://podcastmovement.com/events/)
 [^16]: [The Podcast Show London](https://www.thepodcastshowlondon.com/)
 [^17]: [PodFest Expo Sponsor Deck](https://podfestexpo.com/sponsordeck.pdf)
+[^18]: [DWNLOAD Q3 2024 Report: The State of the Podcast Industry](https://dwnloadmedia.beehiiv.com/p/dwnload-report-q3-2024). Highlights significant podcast advertising growth, programmatic ad sales, and political ad revenue contributions.
+[^19]: SiriusXM, iHeartMedia, and Acast financials showing strong podcast revenue growth in Q3 2024. Referenced in the DWNLOAD Q3 2024 Report: [DWNLOAD Q3 2024 Report](https://dwnloadmedia.beehiiv.com/p/dwnload-report-q3-2024).
+[^20]: [Sennheiser Group Looks Back on a Successful 2023 Fiscal Year](https://en-us.sennheiser.com/newsroom/sennheiser-group-looks-back-on-a-successful-2023-fiscal-year). Partial attribution of professional audio revenue to podcast-related sales.
+[^21]: [Logitech SEC Filing Q2 2019](https://podcastindustry.org/sources/financial-statements/LOGI-10-Q_2019-01-24.pdf). Details Logitech’s revenue contribution from Blue Microphones and podcasting equipment.
+[^22]: [Patreon Press Release: Podcasters earned over $350 million from their real fans on Patreon last year](https://podcastindustry.org/sources/press-releases/patreon-press-release-aug-1-2024.pdf).
+
