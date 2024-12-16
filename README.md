@@ -278,6 +278,9 @@ The goal here, whenever possible, is to avoid sourcing generalized estimates fro
 
 > This page is hosted by [Transistor.fm](https://transistor.fm). Ready to [start a podcast](https://transistor.fm/how-to-start-a-podcast/)? Create as [many podcasts as you'd like](https://transistor.fm/features/host-multiple-podcasts-on-the-same-account/) on Transistor, and we'll [distribute your shows](https://transistor.fm/features/distribution/) to Apple, Spotify, YouTube, and more.
 
+## Updates/release notes
+- [Dec 16, 2024](https://podcastindustry.org/update-dec-16-2024/)
+
 ## Footnotes
 
 [^1]: ["Everything you know about the podcast industry is a lie", Techcrunch](https://techcrunch.com/2023/12/07/spotify-layoffs-podcast-industry-fallout/)
