@@ -37,6 +37,7 @@ Co-founder of [Transistor.fm](https://transistor.fm)
 
 This estimate is based on available data from various segments of the podcast industry, including advertising, hosting, equipment, direct listener support, events, and other related categories.
 
+![Global Podcast Market Revenues by Category (millions USD)](https://github.com/user-attachments/assets/6bd10c6a-d464-496d-9684-9d7438b2bbd5)
 
 
 ### Breakdown by category:
@@ -61,7 +62,7 @@ Categories that still need to be estimated:
 
 Each category's estimate is explained in detail in the sections below.
 
-It's important to note that the podcast industry is rapidly evolving, and these figures may change quickly. Additionally, there may be some overlap between categories, and the global nature of the industry makes precise estimation challenging.
+It's important to note that the podcast industry is rapidly evolving, and these figures may change quickly. Additionally, there may be some overlap between categories, and the industry's global nature makes precise estimation challenging.
 
 ## Breakdown by Category
 
