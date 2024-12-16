@@ -1,0 +1,44 @@
+Everything you know about the podcast industry is a lie
+Amanda Silberling
+https://techcrunch.com/2023/12/07/spotify-layoffs-podcast-industry-fallout/
+
+Image Credits:DBenitostock / Getty Images
+It seems like the writing is on the soundproofed wall: The podcast boom is over, and this week’s news is evidence. Spotify laid off 17% of the company — its third round of layoffs this year — and canceled two highly acclaimed shows, including a winner of the Pulitzer Prize for audio reporting. But as a whole, the podcast industry didn’t fail. It’s just that Spotify took a billion-dollar swing and whiffed, and now podcasters have to navigate the fallout.
+
+“Spotify has kind of set the terms of the quote-unquote ‘health’ of the podcasting industry based on their actions as a tech company,” said Eric Silver, co-founder and head of creative at Multitude, an independent podcast collective. “But Spotify’s choices don’t have anything to do with me. It’s just that they keep failing so publicly, and now everyone thinks podcasting is dead, which really frustrates me.”
+
+When outsiders think of podcasting, they may imagine mega-viral hits like “Serial” or long-standing institutions like “This American Life.” But for the long tail of podcast creators — those who make podcasts for a living, but aren’t getting multi-million-dollar deals from Amazon, Apple or Spotify — the industry isn’t as imperiled as it seems. And yet, Spotify’s shadow looms so large over the podcasting industry that it’s impossible for its failures not to reverberate.
+
+In 2021, a year that saw venture capital flowing like champagne at a Gatsby party, Spotify CEO Daniel Ek told Forbes that he wanted his company to be like the Instagram or TikTok of audio.
+
+“Everyone underestimates audio. It should be a multi-hundred-billion-dollar industry,” Ek said at the time. “Audio is ours to win.”
+
+In the last handful of years, we watched as Spotify acquired too many podcasting companies to count — Gimlet, The Ringer, Anchor, Parcast, Megaphone — and then courted big names from Joe Rogan, to Alex Cooper, to Prince Harry with eight- and nine-figure deals. The company dumped over a billion dollars into its efforts to corner podcasting but now has canceled over a dozen shows from the studios it spent so many hundreds of millions to acquire, like Parcast and Gimlet, which have since been combined into one entity and decimated.
+
+“In hindsight, I was too ambitious in investing ahead of our revenue growth,” Ek said after Spotify laid off 600 people in January.
+
+TC Sessions: AI 
+Join 1,200 tech leaders for a full day of main-stage sessions, breakouts and networking at TechCrunch Sessions: AI. Get on the waitlist to be among the first for early registrations.
+
+Zellerbach Hall, UC Berkeley | June 5, 2025
+
+GET ON WAITLIST
+After acquiring Gimlet and Parcast, Spotify made most of the networks’ shows exclusive to the Spotify platform. In theory, this decision would force the listeners of these popular shows to download Spotify in order to keep listening every week — and, hopefully, some of those listeners would convert to paid subscribers. But, according to the Gimlet and Parcast unions, this strategy backfired. Some shows lost more than three-quarters of their audiences after being converted to Spotify exclusives.
+
+“Spotify told show teams that their podcasts were being canceled because of low numbers,” said a joint statement by the Gimlet and Parcast unions, posted after a round of layoffs in October 2022. “But decisions Spotify leadership made directly contributed to these low numbers.”
+
+Across the whole creator economy, which includes podcasting, there’s a growing disconnect between the reality of the industry and the stakeholders that invest in it. Last year, the amount of money invested in creator economy companies dropped around 68% from the first to third quarter. But this statistic doesn’t actually say anything about the viability of creators’ careers. It means, quite literally, that fewer startups are raising money.
+
+This isn’t necessarily a bad thing. During the funding boom of 2021, my inbox was flooded with pitches from creator economy startups seeking press about their latest funding rounds. Some of these companies were exciting, but many of them confused me — as a creator myself, I couldn’t imagine myself or my friends in the industry using many of these products. As SignalFire partner Josh Constine told me earlier this year, “Creators aren’t sophisticated enterprise software buyers, nor do they have software integration teams.” In other words, VCs had thrown money at companies that didn’t actually solve any problems for creators’ businesses. So, I wasn’t surprised that when market conditions tightened, the companies that seemed to only want to capitalize on the creator economy hype were no longer being funded.
+
+“A media company needs to have the goal of making enough money for it to survive,” Silver told TechCrunch. This might seem intuitive — surely, a business should try to turn a profit. But that’s not how the world of venture-funded startups works. Spotify, for example, has only reported quarterly profits a handful of times, because its business has prioritized continual growth over returns. The company is not at all unique in that way.
+
+“It’s critical for companies to ‘read the market,’ and right now, the market values efficient growth and doing more with less instead of maximum growth with easy capital,” Creative Juice founder Sima Gandhi told TechCrunch this summer.
+
+This “maximum growth” mindset has poisoned venture-backed digital media companies like Buzzfeed, which descended from a shining star to an IPO embarrassment. The “middle class” of podcasters can’t rely on Spotify, and other media workers can’t rely on failing media conglomerates like G/O Media and Vice anymore. Over the last few years, worker-owned media outlets like Defector, Aftermath and 404 Media have begun cropping up, often founded and staffed by journalists who had been repeatedly laid off from mismanaged media companies. Now the podcasting industry is facing the same reckoning as Spotify’s losses prove that growth can’t take priority over sustainability. Already, podcast studio Maximum Fun has adopted a worker-ownership co-op model, and as podcasters continue to lose trust in big corporations like Spotify, we’ll see this trend continue.
+
+“Spotify is not all of podcasting, although they act as if they are, and make choices as if they’re the only one in the room,” Silver said. “Podcasting is not dead.”
+
+Not every creator economy startup is built for creators
+
+7 VCs explain why the creator economy still has legs
