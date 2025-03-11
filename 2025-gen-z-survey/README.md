@@ -5,7 +5,7 @@
 From February 5 to March 5, 2025, I surveyed "Gen Z podcast fans."
 
 - [Survey form](https://forms.reform.app/pF4xrZ/podcast-survey-2025/d9906d)
-- [Survey results data]([url](https://docs.google.com/spreadsheets/d/1jl_Y7c_G1UMRcXHwzH5jxgQPIzFcSY8bnLP3Nn8aCQE/edit?usp=sharing)) (Google Sheets)
+- [Survey results data](https://docs.google.com/spreadsheets/d/1jl_Y7c_G1UMRcXHwzH5jxgQPIzFcSY8bnLP3Nn8aCQE/edit?usp=sharing) (Google Sheets)
 - Download raw survey results (CSV)
 
 The survey was primarily distributed via these channels:
