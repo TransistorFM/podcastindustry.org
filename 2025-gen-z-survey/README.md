@@ -30,3 +30,16 @@ The survey was primarily distributed via these channels:
 ![tumblr-ad](https://github.com/user-attachments/assets/6e3ba0a0-3f0c-47d8-9744-1c610829ef84)
 
 ![reddit-ad](https://github.com/user-attachments/assets/5e027881-df5b-4015-91e9-16aaf274c71b)
+
+## PNG Charts
+
+![gen-z-prefers-spotify-youtube-apple-podcasts](https://github.com/user-attachments/assets/8bb0aa91-66ee-4625-9cf3-2dda3ea16bad)
+
+![2025 Gen Z podcast app usage](https://github.com/user-attachments/assets/de64f055-2ee6-416f-bf6c-a328f48cc7e9)
+
+![2025-Where does Gen Z consume podcasts](https://github.com/user-attachments/assets/c904884a-2723-49b9-b2f2-18c894b72ddf)
+
+![Does Gen Z prefer audio or video podcasts](https://github.com/user-attachments/assets/d26e3abe-77a2-4892-b77c-d85bb5aeb3dc)
+
+![Most popular Gen Z podcast apps](https://github.com/user-attachments/assets/bc39489c-6589-4786-8dde-d8bfd9b8c1bf)
+
