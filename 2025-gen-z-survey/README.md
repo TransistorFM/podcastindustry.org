@@ -7,6 +7,7 @@ From February 5 to March 5, 2025, I surveyed "Gen Z podcast fans."
 - [Survey form](https://forms.reform.app/pF4xrZ/podcast-survey-2025/d9906d)
 - [Survey results data](https://docs.google.com/spreadsheets/d/1jl_Y7c_G1UMRcXHwzH5jxgQPIzFcSY8bnLP3Nn8aCQE/edit?usp=sharing) (Google Sheets)
 - [Download raw survey results](https://podcastindustry.org/2025-gen-z-survey/Gen%20Z%20podcast%20fan%20survey%20-%20podcast-survey-2025-responses.csv) (CSV)
+- [Read the full report](https://transistor.fm/gen-z-2025/) (online)
 
 ## How the survey was distributed
 
