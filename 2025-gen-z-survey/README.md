@@ -12,7 +12,7 @@ From February 5 to March 5, 2025, I surveyed "Gen Z podcast fans."
 
 The survey was primarily distributed via these channels:
 
-- The /r/genZ sub-reddit (with moderator approval)
+- The [/r/genZ sub-reddit](https://www.reddit.com/r/GenZ/comments/1iiq5kg/any_podcast_fans_here/) (with moderator approval)
 - Reddit ads targeting Gen Z users
 - Tumblr ads targeting users aged 13-28
 - Through newsletters, social media
