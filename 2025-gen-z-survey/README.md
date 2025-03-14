@@ -27,6 +27,7 @@ This might seem like a small sample, but it's in line with much larger studies d
 
 ![image](https://github.com/user-attachments/assets/b7fbe426-24bb-4e7b-a56e-f4f96fcf625d)
 
+
 The point being: Gen Z is a difficult generation to reach, even by larger research firms. A full-scale research study incorporating surveys by one of these firms can cost between $20,000-$100,000 depending on the scope.
 
 All of that said, I would like to commission a bigger study of Gen Z podcast consumers in the future to test my initial results.
@@ -36,6 +37,11 @@ All of that said, I would like to commission a bigger study of Gen Z podcast con
 Our study mirrors findings in separate studies from [Morning Consult](https://pro.morningconsult.com/articles/gen-z-podcasts-influencers-polling) (as mentioned above) and "Online Audio Brand Used Most Often in [Edison Research’s 2024 Infinite Dial](https://www.edisonresearch.com/the-infinite-dial-2024/):
 
 <img width="1506" alt="Infinite Dial 2024 Template 2025-03-13 16-37-56" src="https://github.com/user-attachments/assets/31d31902-6471-494d-9fb8-499e563da6e3" />
+
+Amongst those aged 12-34, the "audio brand used the most often:"
+- 55% used Spotify
+- 14% used YouTube Music
+- 17% used Apple Music
 
 Interestingly, Edison Research's [2023 Gen Z Podcast Listener](https://www.edisonresearch.com/solutions/gen-z-podcast-listener-report/) report doesn't include data on which podcast app Gen Z prefers. However, they did find that 77% of respondents aged 13-24 had listened to an audio podcast.
 
