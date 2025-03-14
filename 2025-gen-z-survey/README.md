@@ -35,7 +35,6 @@ All of that said, I would like to commission a bigger study of Gen Z podcast con
 ## How does these results compare with other studies?
 
 Our study mirrors findings in separate studies from [Morning Consult](https://pro.morningconsult.com/articles/gen-z-podcasts-influencers-polling) (as mentioned above) and "Online Audio Brand Used Most Often in [Edison Research’s 2024 Infinite Dial](https://www.edisonresearch.com/the-infinite-dial-2024/):
-
 <img width="1506" alt="Infinite Dial 2024 Template 2025-03-13 16-37-56" src="https://github.com/user-attachments/assets/31d31902-6471-494d-9fb8-499e563da6e3" />
 
 Amongst those aged 12-34, the "audio brand used the most often:"
